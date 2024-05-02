@@ -73,3 +73,29 @@
 </div>
 
 ###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+</div>
+
+###
