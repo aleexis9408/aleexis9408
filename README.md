@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Skills Apps</h2>
+<h2 align="left">Skills Mobile</h2>
 
 ###
 
